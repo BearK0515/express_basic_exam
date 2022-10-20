@@ -1,0 +1,26 @@
+.nav-link {
+  width: 130px;
+  text-align: center;
+  background-color: #BFBFBF;
+  color: #000000;
+  font-weight: 700;
+  border-radius: 5px;
+  margin: 0.5rem;
+}
+
+.navbar-collapse {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.active {
+  background-color: #4C5958;
+  color: #ffffff;
+}
+
+.content {
+  width: 80%;
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 1.5rem auto 0;
+}
